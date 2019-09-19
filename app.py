@@ -237,100 +237,39 @@ def BuscarChecklistCliente():
                 "agenciaExecucao": "",
                 "placa": "QNS6982"
             },
-            "dadosCarro": [{
-                    "Blindado": False
-                },
-                {
-                    "CertificadoBlindagem": False
-                },
-                {
-                    "Chassi": "94DFFUK13JB204528"
-                },
-                {
-                    "ChassiConferido": False
-                },
-                {
-                    "ChassiOxidado": False
-                },
-                {
-                    "ChassiRasgado": False
-                },
-                {
-                    "Combustivel": "6"
-                },
-                {
-                    "Comentario": ""
-                },
-                {
-                    "CompradorFinal": True
-                },
-                {
-                    "ConfirmacaoGarantia": True
-                },
-                {
-                    "ConfirmacaoGarantiaItem": "13299"
-                },
-                {
-                    "ConfirmacaoGarantiaParte": "4954"
-                },
-                {
-                    "Cor": False
-                },
-                {
-                    "DT": False
-                },
-                {
-                    "EhRac": True
-                },
-                {
-                    "ExcessivamenteSujo": False
-                },
-                {
-                    "ExcessivamenteSujoItem": "10818"
-                },
-                {
-                    "ExcessivamenteSujoParte": "4954"
-                },
-                {
-                    "Garantia": "SIM"
-                },
-                {
-                    "Idade": "602"
-                },
-                {
-                    "KitGNV": False
-                },
-                {
-                    "Km": "26879"
-                },
-                {
-                    "KmUltimaRevisaoRac": ""
-                },
-                {
-                    "ListaFotoConfirmacaoGarantia": []
-                },
-                {
-                    "ListaFotoExcessivamenteSujo": []
-                },
-                {
-                    "NotaDez": False
-                },
-                {
-                    "PT": False
-                },
-                {
-                    "QuantidadeCilindro": "0"
-                },
-                {
-                    "Revenda": False
-                },
-                {
-                    "RevendaDesabilitado": False
-                },
-                {
-                    "Revisao": "0Km"
-                }
-            ],
+            "dadosCarro": {
+              "Blindado": False,  
+              "CertificadoBlindagem": False,
+              "Chassi": "94DFFUK13JB204528",  
+              "ChassiConferido": False,
+              "ChassiOxidado": False,
+              "ChassiRasgado": False,
+              "Combustivel": "6",
+              "Comentario": "",
+              "CompradorFinal": True,
+              "ConfirmacaoGarantia": True,
+              "ConfirmacaoGarantiaItem": "13299",
+              "ConfirmacaoGarantiaParte": "4954",
+              "Cor": False,
+              "DT": False,
+              "EhRac": True,
+              "ExcessivamenteSujo": False,
+              "ExcessivamenteSujoItem": "10818",
+              "ExcessivamenteSujoParte": "4954",
+              "Garantia": "SIM",
+              "Idade": "602",
+              "KitGNV": False,
+              "Km": "26879",
+              "KmUltimaRevisaoRac": "",
+              "ListaFotoConfirmacaoGarantia": [],
+              "ListaFotoExcessivamenteSujo": [],
+              "NotaDez": False,
+              "PT": False,
+              "QuantidadeCilindro": "0",
+              "Revenda": False,
+              "RevendaDesabilitado": False,
+              "Revisao": "0Km"}
+            ,
         #     "partes": [{
         #     "parte": "Dianteira",
         #     "habilitadoEdicao": True,
